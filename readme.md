@@ -14,3 +14,8 @@ Candidate will implement the ExpressJS question located at [dsaController.js](ds
 
 ### React (15 minutes)
 Candidate will implement the React question located at [Pokemon.jsx](Pokemon.jsx). It will be a simple React app that displays a list of Pokemon and an image.
+
+## Rubric
+
+Interviewer will use the [rubric.md](rubric.md) to evaluate the candidate.
+

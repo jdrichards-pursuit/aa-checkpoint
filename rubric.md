@@ -173,3 +173,5 @@
 - React: 15 points (30%)
 
 ## Minimum Passing Score: 35 points (Proficient level)
+
+[Back to README](../README.md)
