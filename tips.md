@@ -1,6 +1,6 @@
 # Tips for Interviewer
 
-- Use the [rubric.md](rubric.md) to evaluate the candidate.
+Use the [rubric.md](rubric.md) to evaluate the candidate.
 
 ## Evaluation Guidelines for Interviewer
 
