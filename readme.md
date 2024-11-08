@@ -1,6 +1,6 @@
-## L3 Accelerator Assessment
+# L3 Accelerator Assessment
 
-### Instructions
+## Instructions
 
 **Total time: 45 minutes**
 
