@@ -19,3 +19,6 @@ Candidate will implement the React question located at [Pokemon.jsx](Pokemon.jsx
 
 Interviewer will use the [rubric.md](rubric.md) to evaluate the candidate.
 
+## Tips
+
+Interviewer will use the [tips.md](tips.md) to guide the interview.
