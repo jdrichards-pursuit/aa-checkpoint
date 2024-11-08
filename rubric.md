@@ -174,4 +174,4 @@
 
 ## Minimum Passing Score: 35 points (Proficient level)
 
-[Back to README](../readme.md)
+[Back to README](readme.md)
