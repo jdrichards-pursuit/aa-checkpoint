@@ -6,7 +6,7 @@ For the coding of each section, the interviewer drives and the candidate navigat
 We give them the dsa question, findMostFrequent. [dsa.js](dsa.js)
 
 ### Express
-We give them the express question, dsaController.js. This extends from the dsa question. [dsaController.js](dsaController.js)
+We give them the ExpressJS question, dsaController.js. This extends from the dsa question located at [dsaController.js](dsaController.js)
 
 ### React
-We give them the react question, Pokemon.jsx. [Pokemon.jsx](Pokemon.jsx)
+We give them the React question located at [Pokemon.jsx](Pokemon.jsx)
